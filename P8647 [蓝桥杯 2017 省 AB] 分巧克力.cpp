@@ -1,6 +1,6 @@
 #include<bits/stdc++.h>
 using namespace std;
-const N = 1e5 + 10;
+const int N = 1e5 + 10;
 int n,a[N],b[N],k;
 
 bool check(int x){
